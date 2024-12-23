@@ -67,7 +67,7 @@ Below are the images of the designed PCB schematic and layout:
 ![PCB Schematic]()
 
 ### PCB Layout
-![PCB Layout]()
+![PCB Layout](https://github.com/BRshreya29/AM-Modulator-PCB-design/blob/main/PCB%20Layout.png)
 
 ## Repository Structure
 ```
