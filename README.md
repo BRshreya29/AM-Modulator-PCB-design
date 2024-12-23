@@ -64,7 +64,7 @@ The schematic and PCB layout were completed with no errors in the DRC.
 Below are the images of the designed PCB schematic and layout:
 
 ### PCB Schematic
-![PCB Schematic]()
+![PCB Schematic](https://github.com/BRshreya29/AM-Modulator-PCB-design/blob/main/PCB%20Schematic.png)
 
 ### PCB Layout
 ![PCB Layout](https://github.com/BRshreya29/AM-Modulator-PCB-design/blob/main/PCB%20Layout.png)
