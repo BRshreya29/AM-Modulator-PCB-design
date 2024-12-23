@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-11-22T01:26:13Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "schematic circuit diagram copy"
+        },
+        "Owner": "Shreya Reddy B R <seagul959@gmail.com>",
+        "Size": {
+            "X": 106.35,
+            "Y": 90.16
+        }
+    }
+}
